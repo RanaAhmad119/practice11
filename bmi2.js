@@ -1,0 +1,6 @@
+h=Number(prompt("enter your height in inches"))
+w=Number(prompt("enter your weight in pounds"))
+bmi=703*(w/(h*h))
+alert(bmi)
+document.write(bmi)
+console.log(bmi)
